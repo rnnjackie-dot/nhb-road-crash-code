@@ -1,0 +1,9 @@
+﻿# Secrets and local inputs
+.env
+*.key
+raw_images/
+ocr_results/
+theory.docx
+output/
+__pycache__/
+*.pyc
